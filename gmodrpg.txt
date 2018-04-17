@@ -1,0 +1,6 @@
+"gmodrpg"
+{
+	"base"		"sandbox"
+	"title"		"gmodrpg 1.0"
+	"author"	"Techy and Arrow"
+}
