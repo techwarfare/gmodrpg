@@ -1,1 +1,1 @@
-
+DeriveGamemode("sandbox")
