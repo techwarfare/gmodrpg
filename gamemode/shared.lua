@@ -1,3 +1,3 @@
 GM.Name = "gmodrpg"
-GM.Author = "Techy and Arrow"
+GM.Author = "Techy, Arrow and JimmyWow"
 GM.Website = ""
